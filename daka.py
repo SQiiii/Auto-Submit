@@ -31,14 +31,14 @@ def daka(stu_id,name,receiver):
         "night": "36.0℃",
         "jsonbody": 1,
         "jsonbodychangeinfo": "",
-        "textarea": "学校",
-        "textprople": "同学",
+        "textarea": "在家",
+        "textprople": "父母",
         "jsontouch": 1,
         "jsontouchchangeinfo": 0,
         "jsonisolate": 1,
         "jsonisolatechangeinfo": 0,
-        "latitude": 38.87052,
-        "longitude": 121.52454, 
+        "latitude": 35.1046,
+        "longitude":118.3565, 
     }
     url = 'https://www.informationofdum.com/DMU_WEB/student_5/info/?'
     url += urlencode(data)
